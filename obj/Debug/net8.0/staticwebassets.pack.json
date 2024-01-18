@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/selenasiri/stations-dropdown/obj/Debug/net8.0/scopedcss/projectbundle/stations-dropdown.bundle.scp.css",
+      "PackagePath": "staticwebassets/stations-dropdown.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/selenasiri/stations-dropdown/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/selenasiri/stations-dropdown/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/selenasiri/stations-dropdown/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/selenasiri/stations-dropdown/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.stations-dropdown.props",
+      "PackagePath": "build\\stations-dropdown.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.stations-dropdown.props",
+      "PackagePath": "buildMultiTargeting\\stations-dropdown.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.stations-dropdown.props",
+      "PackagePath": "buildTransitive\\stations-dropdown.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.stations-dropdown.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
