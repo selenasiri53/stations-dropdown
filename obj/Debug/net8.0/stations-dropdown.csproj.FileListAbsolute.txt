@@ -27,3 +27,6 @@
 /Users/selenasiri/stations-dropdown/obj/Debug/net8.0/stations-dropdown.pdb
 /Users/selenasiri/stations-dropdown/obj/Debug/net8.0/stations-dropdown.genruntimeconfig.cache
 /Users/selenasiri/stations-dropdown/obj/Debug/net8.0/ref/stations-dropdown.dll
+/Users/selenasiri/stations-dropdown/obj/Debug/net8.0/stations-dropdown.sourcelink.json
+/Users/selenasiri/stations-dropdown/bin/Debug/net8.0/package-lock.json
+/Users/selenasiri/stations-dropdown/bin/Debug/net8.0/package.json
