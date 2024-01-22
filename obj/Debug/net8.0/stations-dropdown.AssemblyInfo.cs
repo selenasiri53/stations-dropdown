@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stations-dropdown")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f400784c97365951e1d2d24ba67676e9cefa3dd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+480b824eea5f4435f10b32e0307ceb5da67f840f")]
 [assembly: System.Reflection.AssemblyProductAttribute("stations-dropdown")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stations-dropdown")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
