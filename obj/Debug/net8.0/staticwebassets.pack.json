@@ -21,6 +21,22 @@
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
+      "Id": "/Users/selenasiri/stations-dropdown/wwwroot/images/CBS.png",
+      "PackagePath": "staticwebassets/images/CBS.png"
+    },
+    {
+      "Id": "/Users/selenasiri/stations-dropdown/wwwroot/images/KTLA_logo.svg.png",
+      "PackagePath": "staticwebassets/images/KTLA_logo.svg.png"
+    },
+    {
+      "Id": "/Users/selenasiri/stations-dropdown/wwwroot/images/NYC_TV.png",
+      "PackagePath": "staticwebassets/images/NYC_TV.png"
+    },
+    {
+      "Id": "/Users/selenasiri/stations-dropdown/wwwroot/js/earth.js",
+      "PackagePath": "staticwebassets/js/earth.js"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.stations-dropdown.props",
       "PackagePath": "build\\stations-dropdown.props"
     },

@@ -30,3 +30,4 @@
 /Users/selenasiri/stations-dropdown/obj/Debug/net8.0/stations-dropdown.sourcelink.json
 /Users/selenasiri/stations-dropdown/bin/Debug/net8.0/package-lock.json
 /Users/selenasiri/stations-dropdown/bin/Debug/net8.0/package.json
+/Users/selenasiri/stations-dropdown/obj/Debug/net8.0/scopedcss/Components/Pages/Stations.razor.rz.scp.css

@@ -201,3 +201,9 @@ main[b-ko31zrdndz] {
         overflow-y: auto;
     }
 }
+/* _content/stations-dropdown/Components/Pages/Stations.razor.rz.scp.css */
+.background[b-fyvno0y07g] {
+    margin-top: 5px;
+    align-items: center;
+    display: flex;
+}

@@ -15,6 +15,18 @@
 <body>
     <Routes />
     <script src="_framework/blazor.web.js"></script>
+    @* threejs setup *@
+        <script type="importmap">
+			{
+				"imports": {
+					"three": "https://cdn.jsdelivr.net/npm/three@0.131/build/three.module.js",
+          "jsm/": "https://cdn.jsdelivr.net/npm/three@0.131/examples/jsm/"
+        }
+			}
+		</script>
+    @* new: JS interop, and added wwwroot/js/scripts.js for three.js file: earth.js*@
+    <script src="_framework/blazor.webassembly.js"></script> 
+    <script src="js/earth.js"></script>
 </body>
 
 </html>
